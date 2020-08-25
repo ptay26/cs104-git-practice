@@ -1,4 +1,7 @@
+#include <iostream>
+
+using namespace std;
 int main()
 {
-    std::cout<<"Fight On"<<std::endl;
+    cout<<"Fight On"<<endl;
 }
